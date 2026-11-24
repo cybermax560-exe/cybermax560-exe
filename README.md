@@ -32,16 +32,6 @@ channel:    youtube.com/@MaxTechnical360
 
 ---
 
-## 🚀 Featured Projects
-
-| Project | Description | Live status |
-|---|---|---|
-| 🔌 **[PROBINIX](https://github.com/cybermax560-exe/PROBINIX)** | JTAGulator-inspired hardware hacking multi-tool for RP2040 boards | ![Language](https://img.shields.io/github/languages/top/cybermax560-exe/PROBINIX?style=flat-square&color=00ff9c&labelColor=0d1117) ![Last commit](https://img.shields.io/github/last-commit/cybermax560-exe/PROBINIX?style=flat-square&color=00ff9c&labelColor=0d1117) ![Stars](https://img.shields.io/github/stars/cybermax560-exe/PROBINIX?style=flat-square&color=00ff9c&labelColor=0d1117) |
-| 📟 **[BaudHunter](https://github.com/cybermax560-exe/BaudHunter)** | Automatic baud-rate detection and UART hardware-security toolkit | ![Language](https://img.shields.io/github/languages/top/cybermax560-exe/BaudHunter?style=flat-square&color=00ff9c&labelColor=0d1117) ![Last commit](https://img.shields.io/github/last-commit/cybermax560-exe/BaudHunter?style=flat-square&color=00ff9c&labelColor=0d1117) ![Stars](https://img.shields.io/github/stars/cybermax560-exe/BaudHunter?style=flat-square&color=00ff9c&labelColor=0d1117) |
-| 🧰 **[Hardware-PT Toolkit](https://github.com/cybermax560-exe/Hardware-PT-ToolKIT)** | One-command Kali Linux setup for hardware penetration testing | ![Language](https://img.shields.io/github/languages/top/cybermax560-exe/Hardware-PT-ToolKIT?style=flat-square&color=00ff9c&labelColor=0d1117) ![Last commit](https://img.shields.io/github/last-commit/cybermax560-exe/Hardware-PT-ToolKIT?style=flat-square&color=00ff9c&labelColor=0d1117) ![Stars](https://img.shields.io/github/stars/cybermax560-exe/Hardware-PT-ToolKIT?style=flat-square&color=00ff9c&labelColor=0d1117) |
-
----
-
 ## 🎯 Areas of Focus
 
 | Domain | Topics |
