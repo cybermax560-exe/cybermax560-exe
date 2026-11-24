@@ -1,98 +1,91 @@
-# 🔐 CybermaX560 | Hardware Security & Red Team
+<div align="center">
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Hardware-Security-red?style=for-the-badge&logo=espressif&logoColor=white" />
-  <img src="https://img.shields.io/badge/IoT-Security-blue?style=for-the-badge&logo=internetofthings&logoColor=white" />
-  <img src="https://img.shields.io/badge/Embedded-Systems-green?style=for-the-badge&logo=arduino&logoColor=white" />
-  <img src="https://img.shields.io/badge/Red-Team-black?style=for-the-badge&logo=kalilinux&logoColor=white" />
-</p>
+# CybermaX560
 
-## 💫 About Me
+**Hardware Security Researcher · IoT & Embedded Systems · Red Team**
 
-🔐 Hardware Security & Cybersecurity Enthusiast  
-🔬 Exploring Hardware Hacking & Embedded Device Security  
-🌐 IoT Security | Firmware Analysis | Hardware Reverse Engineering  
-⚡ UART | SPI | I2C | JTAG | SWD | PCB Analysis  
-📡 RF Security | BLE | Wi-Fi | SDR  
-🛡️ Red Team | Vulnerability Assessment | Security Research  
-🇮🇳 India  
-🎥 YouTube: [Max Technical360](https://youtube.com/@MaxTechnical360)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/debanjansaha360)
+[![YouTube](https://img.shields.io/badge/YouTube-Max_Technical360-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://youtube.com/@MaxTechnical360)
+[![Instagram](https://img.shields.io/badge/Instagram-cybermax560-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/cybermax560)
+![Location](https://img.shields.io/badge/Based_in-India-555555?style=flat-square)
 
-**My Mission:** Exploring the security of connected devices, embedded systems, and hardware technologies through practical research and ethical security testing.
-
-## 🔬 Hardware Security Research Areas
-
-- 🔧 PCB Analysis & Hardware Reverse Engineering
-- 🔌 UART, SPI, I2C, JTAG & SWD Interface Analysis
-- 💾 Firmware Extraction & Reverse Engineering
-- 🔐 Secure Boot & Bootloader Security
-- 📡 RF, Bluetooth LE & Wi-Fi Security
-- 🛰️ SDR & Wireless Communication Analysis
-- 🔍 IoT Device Security Assessment
-- ⚡ Side-Channel Analysis & Fault Injection Research
-- 🔒 Cryptographic Hardware & Secure Elements
-- 🛡️ Embedded Linux & RTOS Security
-
-## 🧰 Hardware Security Lab
-
-| Equipment | Purpose |
-|---|---|
-| HackRF One | RF & SDR Research |
-| ST-Link V2 | STM32 Debugging |
-| Blue Pill | Embedded Security Experiments |
-| XGecu T48 | SPI Flash Programming |
-| USB-to-TTL | UART Communication |
-| Oscilloscope | Signal Analysis |
-| Logic Analyzer | Digital Protocol Analysis |
-| Multimeter | PCB & Electrical Analysis |
-| Bench Power Supply | Controlled Power Testing |
-| Soldering & Hot Air Station | PCB Rework & Inspection |
-
-## 💻 Technical Stack
-
-### 🔧 Hardware & Embedded
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white)
-![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
-![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-### 🛡️ Security & Research Tools
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![Ghidra](https://img.shields.io/badge/Ghidra-DC143C?style=for-the-badge)
-![GNU Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
-
-### 💻 Programming & Development
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-## 🌐 Connect With Me
-
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/cybermax560)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/debanjansaha360)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@MaxTechnical360)
-
-## 📊 GitHub Statistics
-
-![](https://github-readme-stats.vercel.app/api?username=cybermax560-exe&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=cybermax560-exe&theme=dark&hide_border=false)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=cybermax560-exe&theme=dark&hide_border=false&layout=compact)
+</div>
 
 ---
 
-<p align="center">
-  <b>⚡ Break Hardware. Understand Firmware. Secure the Future. ⚡</b>
-</p>
+## About
 
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=cybermax560-exe&icon=0&color=0" />
-</p>
+I research the security of connected devices, embedded systems, and hardware through hands-on analysis and ethical security testing. My work spans the full device stack — from PCB-level interfaces and firmware to RF communication — with the goal of identifying weaknesses before they can be exploited.
+
+I also share practical hardware and security content on my YouTube channel, [Max Technical360](https://youtube.com/@MaxTechnical360).
+
+## Areas of Focus
+
+| Domain | Topics |
+|---|---|
+| **Hardware Reverse Engineering** | PCB analysis, component identification, debug interface discovery |
+| **Debug & Bus Interfaces** | UART, SPI, I²C, JTAG, SWD |
+| **Firmware Security** | Firmware extraction, reverse engineering, secure boot and bootloader analysis |
+| **Wireless & RF** | Bluetooth LE, Wi-Fi, SDR-based signal analysis |
+| **IoT Assessment** | End-to-end device security assessments and vulnerability research |
+| **Advanced Hardware Attacks** | Side-channel analysis, fault injection, cryptographic hardware and secure elements |
+| **Embedded Platforms** | Embedded Linux and RTOS security |
+
+## Lab Equipment
+
+| Category | Equipment | Purpose |
+|---|---|---|
+| RF / SDR | HackRF One | Radio-frequency and SDR research |
+| Debugging | ST-Link V2 | STM32 debugging and programming |
+| Targets | STM32 Blue Pill | Embedded security experiments |
+| Flash Programming | XGecu T48 | SPI flash reading and programming |
+| Serial | USB-to-TTL adapter | UART console access |
+| Measurement | Oscilloscope · Logic analyzer · Multimeter | Signal, protocol, and electrical analysis |
+| Power | Bench power supply | Controlled power testing |
+| Rework | Soldering & hot-air station | PCB rework and inspection |
+
+## Technical Skills
+
+**Hardware & Embedded**
+<br>
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
+![STM32](https://img.shields.io/badge/STM32-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=flat-square&logo=raspberrypi&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+**Security & Analysis**
+<br>
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
+![Ghidra](https://img.shields.io/badge/Ghidra-DC143C?style=flat-square)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
+
+**Languages & Development**
+<br>
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+## GitHub Activity
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=cybermax560-exe&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" alt="GitHub stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cybermax560-exe&theme=github_dark&hide_border=true&layout=compact" alt="Top languages" />
+
+<img src="https://streak-stats.demolab.com/?user=cybermax560-exe&theme=github-dark-blue&hide_border=true" alt="GitHub streak" />
+
+</div>
+
+---
+
+<div align="center">
+
+<sub>All research is conducted ethically on hardware I own or am authorized to test.</sub>
+
+</div>
