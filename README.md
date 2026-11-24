@@ -1,13 +1,14 @@
 <div align="center">
 
-# CybermaX560
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:00ff9c&height=160&section=header&text=CybermaX560&fontColor=ffffff&fontSize=50" alt="CybermaX560" />
 
-**Hardware Security Researcher · IoT & Embedded Systems · Red Team**
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1200&color=00FF9C&center=true&vCenter=true&width=600&lines=Hardware+Security+Researcher;IoT+%26+Embedded+Systems;Firmware+Reverse+Engineering;Red+Team+%7C+RF+%26+SDR" alt="Hardware Security Researcher · IoT & Embedded Systems · Red Team" />
+
+India
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/debanjansaha360)
-[![YouTube](https://img.shields.io/badge/YouTube-Max_Technical360-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://youtube.com/@MaxTechnical360)
-[![Instagram](https://img.shields.io/badge/Instagram-cybermax560-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/cybermax560)
-![Location](https://img.shields.io/badge/Based_in-India-555555?style=flat-square)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://youtube.com/@MaxTechnical360)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/cybermax560)
 
 </div>
 
@@ -75,10 +76,12 @@ I also share practical hardware and security content on my YouTube channel, [Max
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=cybermax560-exe&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cybermax560-exe&theme=github_dark&hide_border=true&layout=compact" alt="Top languages" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=cybermax560-exe&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00ff9c&icon_color=00ff9c&text_color=c9d1d9&rank_icon=github" alt="GitHub stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cybermax560-exe&layout=compact&hide_border=true&bg_color=0d1117&title_color=00ff9c&text_color=c9d1d9" alt="Top languages" />
 
-<img src="https://streak-stats.demolab.com/?user=cybermax560-exe&theme=github-dark-blue&hide_border=true" alt="GitHub streak" />
+<img width="100%" src="https://streak-stats.demolab.com/?user=cybermax560-exe&hide_border=true&background=0d1117&ring=00ff9c&fire=00ff9c&currStreakLabel=00ff9c&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=ffffff&dates=8b949e&stroke=30363d" alt="GitHub streak" />
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=cybermax560-exe&bg_color=0d1117&color=c9d1d9&line=00ff9c&point=ffffff&area=true&area_color=00ff9c&hide_border=true" alt="Contribution graph" />
 
 </div>
 
@@ -87,5 +90,7 @@ I also share practical hardware and security content on my YouTube channel, [Max
 <div align="center">
 
 <sub>All research is conducted ethically on hardware I own or am authorized to test.</sub>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff9c,100:0d1117&height=100&section=footer" alt="" />
 
 </div>
